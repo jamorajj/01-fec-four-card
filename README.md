@@ -1,6 +1,6 @@
 # 01-fec-four-card
 
-Solution for four card challenge
+Solution for four card challenge.
 
 # Frontend Mentor - Four card feature section
 
